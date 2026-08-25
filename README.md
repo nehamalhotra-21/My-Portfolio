@@ -30,6 +30,3 @@ and coding competitions to solve real-world problems.
 - Data Analytics
 - Backend Development
 
-All page copy for skills, projects, education, certifications, and
-achievements lives in structured arrays at the top of `script.js` — edit
-those objects to update content without touching the HTML.
