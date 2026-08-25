@@ -1,0 +1,4 @@
+Replace this file with your actual PDF resume named exactly:
+Neha_Malhotra_Resume.pdf
+
+The portfolio already links to resume/Neha_Malhotra_Resume.pdf.
